@@ -141,8 +141,6 @@ The paper describes the following analysis sequence:
 6. Solve the bounded minimum-norm allocation and replay both command sequences through the stateful actuator.
 7. Check the replay against recorded thrust, verify energy closure, and evaluate both traversal directions separately.
 
-This README documents the manuscript. Installation commands, executable entry points, checkpoint and dataset downloads, and a software license are not specified in the supplied paper and must be documented with the corresponding repository release.
-
 ## Scope and Future Work
 
 The reported evidence concerns one simulated vehicle layout, one controller checkpoint, and its trained tracking task. Physical-vehicle validation, comparisons across actuator layouts, and onboard monitoring with recovered clauses and idle-actuation metrics are identified as future work.
