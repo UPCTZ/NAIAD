@@ -4,15 +4,11 @@
 
 **Read what a learned underwater controller asks of the hull, and account for the thrust that cancels within its actuators.**
 
-Tianze Zhang · Lei Wu · Min Lou · Xiang Yu · Xiaowen Tao
+Tianze Zhang · Lei Wu · Xiaowen Tao
 
 China University of Petroleum (East China) · Trinity College Dublin
 
 [Overview](#overview) · [Method](#method) · [Results](#results) · [Experimental-setup](#experimental-setup) · [Citation](#citation)
-
-![NAIAD overview: geometry projection, additive named-axis readout, and counterfactual attribution of idle thrust.](assets/naiad-overview.png)
-
-*Framework overview reproduced from Figure 1 of the manuscript.*
 
 ## Overview
 
@@ -158,11 +154,6 @@ Bibliographic entry based on the supplied manuscript; publication metadata can b
 ```bibtex
 @misc{zhang_naiad,
   title  = {{NAIAD}: Named-Axis Decomposition of Idle Actuation in a Learned Controller for Over-Actuated Underwater Vehicles},
-  author = {Zhang, Tianze and Wu, Lei and Lou, Min and Yu, Xiang and Tao, Xiaowen},
-  note   = {Manuscript}
+  author = {Zhang, Tianze and Wu, Lei and and Tao, Xiaowen},
 }
 ```
-
-## Contact
-
-Corresponding author: **Xiaowen Tao** — [taox@tcd.ie](mailto:taox@tcd.ie)
